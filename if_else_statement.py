@@ -1,4 +1,3 @@
-
 def main():
     """Main function to check the if the number is even or odd."""
     
